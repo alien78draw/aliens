@@ -1,12 +1,12 @@
 # Alien Draw
 
-Welcome to Alien Draw iOS App!
+Welcome to the Alien Draw iOS app!
 
 ![Alt text](alien2.png)
 
 ## General
 
-This is a support page for Alien Draw iOS app
+This is the support page for the Alien Draw iOS app
 
 ## Guide
 
